@@ -1,0 +1,22 @@
+{
+  "name": "my-country",
+  "version": "1.0.0",
+  "description": "just my-country",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsteatv/MyCountry.git"
+  },
+  "keywords": [
+    "my-country"
+  ],
+  "author": "itsteatv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itsteatv/MyCountry/issues"
+  },
+  "homepage": "https://github.com/itsteatv/MyCountry#readme"
+}
