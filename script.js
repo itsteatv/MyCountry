@@ -88,7 +88,7 @@ const getCountryData = function (country) {
 
 btn.addEventListener(
   "click",
-  function (e) {
+  function () {
     getCountryData("iran");
   },
   { once: true }
